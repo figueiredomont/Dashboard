@@ -1,0 +1,11 @@
+DASHBOARD DE CLUBES - STREAMLIT
+
+1. Coloque Tabela_Clubes.csv na mesma pasta do app.py.
+2. Abra o terminal nessa pasta.
+3. Execute:
+   pip install streamlit pandas plotly
+4. Depois execute:
+   python -m streamlit run app.py
+
+O dashboard possui filtros por ano e clube, indicadores, ranking de vitórias,
+saldo de gols, valor dos elencos, evolução por ano e tabela completa.
